@@ -3,7 +3,8 @@ global.client_id = 'client_id=4bgewis13ldtkwl3i5od999y6ubimay';
 global.streamers = [
   'gweedorama',
   'wcaasia',
-  'brunofin',
+  //'brunofin',
+  'nowcommunity',
   'dotastarladder_en',
   'riotgames',
   'beohoff',
@@ -14,7 +15,7 @@ global.streamers = [
   'terakilobyte',
   'storbeck',
   'judgeshiny',
-  'idraven12',
+  //'idraven12',
   'freecodecamp'
 ];
 global.channels = [];
