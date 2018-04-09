@@ -10,7 +10,7 @@ global.streamers = [
   'noobs2ninjas',
   'robotcaleb',
   'judgeshiny',
-  //'idraven12',
+  'idraven12',
   'freecodecamp'
 ];
 global.channels = [];
