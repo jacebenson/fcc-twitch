@@ -7,13 +7,8 @@ global.streamers = [
   'nowcommunity',
   'dotastarladder_en',
   'riotgames',
-  'beohoff',
   'noobs2ninjas',
-  'jacebenson',
   'robotcaleb',
-  'habathcx',
-  'terakilobyte',
-  'storbeck',
   'judgeshiny',
   //'idraven12',
   'freecodecamp'
