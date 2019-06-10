@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
-
+    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
   },
   "repository": {
     "type": "git",
