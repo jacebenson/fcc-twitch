@@ -4,19 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
+    "start": "light-server -s public/ -w 'public/**'"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/jacebenson/fcc-twitch.git"
+    "url": "git+ssh://git@github.com/jacebenson/fcc-twitch.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/jacebenson/fcc-twitch/issues"
+    "url": "https://github.com/jacebenson/fcc-twitch/issues"
   },
-  "homepage": "https://gitlab.com/jacebenson/fcc-twitch#README",
+  "homepage": "https://github.com/jacebenson/fcc-twitch#README",
   "devDependencies": {
-    "browser-sync": "^2.23.6"
+    "light-server": "^2.6.2"
   }
 }
